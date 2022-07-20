@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" ?><factura version="2.1.0" id="comprobante">
+    <infoTributaria>
+        <ambiente>1</ambiente>
+        <tipoEmision>1</tipoEmision>
+        <razonSocial>JOHANNA FERNANDA ORTEGA AVILA</razonSocial>
+        <nombreComercial>GRUPO DIGITAL</nombreComercial>
+        <ruc>0603031568001</ruc>
+        <claveAcceso>2010201801060303156800110010010000264662010646611</claveAcceso>
+        <codDoc>01</codDoc>
+        <estab>001</estab>
+        <ptoEmi>001</ptoEmi>
+        <secuencial>000026466</secuencial>
+        <dirMatriz>BRASIL Y ARGENTINOS</dirMatriz>
+    </infoTributaria>
+    <infoFactura>
+        <fechaEmision>20/10/2018</fechaEmision>
+        <dirEstablecimiento>JUNIN 18-29 Y JUAN DE VELASCO</dirEstablecimiento>
+        <obligadoContabilidad>SI</obligadoContabilidad>
+        <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+        <razonSocialComprador>CONSUMIDOR FINAL</razonSocialComprador>
+        <identificacionComprador>9999999999999</identificacionComprador>
+        <direccionComprador></direccionComprador>
+        <totalSinImpuestos>30.00</totalSinImpuestos>
+        <totalDescuento>0.00</totalDescuento>
+        <totalConImpuestos>
+            <totalImpuesto></totalImpuesto>
+        </totalConImpuestos>
+        <propina>0.00</propina>
+        <importeTotal>33.6</importeTotal>
+        <moneda>DOLAR</moneda>
+        <pagos><pago>
+                <formaPago>01</formaPago>
+                <total>33.60</total>
+                <plazo>0</plazo>
+                <unidadTiempo>DÍAS</unidadTiempo>
+            </pago></pagos>
+    </infoFactura>
+    <detalles><detalle>
+            <codigoPrincipal>3243</codigoPrincipal>
+            <descripcion>2423423</descripcion>
+            <cantidad>1</cantidad>
+            <precioUnitario>30.0003</precioUnitario>
+            <descuento>0.0</descuento>
+            <precioTotalSinImpuesto>30.0003</precioTotalSinImpuesto></detalles>
+</factura>

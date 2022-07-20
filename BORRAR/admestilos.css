@@ -1,0 +1,31 @@
+
+/*   generales*/
+#titulo1{font-size:14px;}
+#titulo2{font-size:16px;
+font-style:italic;
+width:40%;}
+#secc {width: 50%;padding-bottom:15px; padding-top:10px;}
+#sec_contedor{
+	width: 40%;
+	padding-left:10px;
+	padding-right:10px;
+	padding-top:15px;
+	}
+
+/*  tabla de regitros*/
+th{background-color:#333333; color:; padding-left:10px; padding-right:10px; font-size:12px;}
+.fila{background-color:#DBDBEA; color:#000000; font-size:12px;}
+.fila:hover{background-color:#A8A8B7; color:#000000;}
+.number{text-align:right;}
+.boton{text-align:center;}
+.nuevo{color:#333333; font-size:11px; text-align:right; background-color:#F5F5F5;}
+.paginas{color:#999999; font-size:11px; text-align:center;}
+.paginas a { text-decoration:none;}
+
+/*   formularios*/
+#frmetiquetas{ background-color:#F5F5F5; color:#000000; font-size:12px; padding-left:10px;}
+#frmcampo{background-color:#DBDBEA; color:#000000; padding-left:15px; margin-bottom:5px;}
+input{font-size:10px;}
+
+
+
